@@ -2,6 +2,10 @@
 
 ## Table of contents
 
+- [How to install](#how-to-install)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+
 ## Desctiption
 
 The program is to help manage inventories using text files.
